@@ -1,4 +1,4 @@
-echo "# Undertherim" >> README.md
+echo "# Under The Rim" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
